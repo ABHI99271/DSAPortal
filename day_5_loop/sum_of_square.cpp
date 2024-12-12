@@ -11,6 +11,6 @@ int main ()
     {
         sum=sum + i*i;
     }
-    cout<<"sumof square of "<<n<<" is : "<<sum;
+    cout<<"sum of square of "<<n<<" is : "<<sum;
     
 }
